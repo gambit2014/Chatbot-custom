@@ -24,8 +24,3 @@ This project involves the development of a custom chatbot using the OpenAI API, 
 
 **Contributions**:
 Contributions are welcome! Feel free to suggest improvements, report issues, or contribute new features to enhance the chatbot's functionality.
-
-**License**:
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
-This summary provides a concise overview of the project, highlighting its key features and technologies used, making it suitable for a GitHub repository README.
